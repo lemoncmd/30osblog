@@ -1,0 +1,22 @@
+body{
+	width:70%;
+	margin:auto;
+}
+
+figure{
+	width:50%;
+	box-shadow:2px 2px 6px;
+}
+
+img{
+	width:100%;
+}
+
+figcaption{
+	text-align:center;
+	font-size:10.5pt;
+}
+
+p{
+	margin: 2em 0px;
+}
