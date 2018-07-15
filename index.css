@@ -20,3 +20,11 @@ figcaption{
 p{
 	margin: 2em 0px;
 }
+
+.normal{
+	font-weight:normal;
+}
+
+.bold{
+	font-weight:bold;
+}
