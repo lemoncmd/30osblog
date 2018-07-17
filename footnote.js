@@ -2,7 +2,6 @@ var footnoting = 0;
 
 function footnote(element, num){
 	num++;
-	console.log(element)
 	element.innerText = `[${num}]`;
 	element.href=`#ref${num}`;
 	element.id=`ft${num}`;
